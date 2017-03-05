@@ -4,8 +4,8 @@
 
 ![alt text](/img/bin-chicken_v01c.png "Site banner")
 
-#### Howto install iMessage stickers
-[Howto illustrated guide from Apple] (https://support.apple.com/en-au/HT206906) is really helpful
+## How do I install iMessage stickers??
+Check out this [How to illustrated guide from Apple] (https://support.apple.com/en-au/HT206906) for help
 
 
 - To access iMessage apps, compose a new iMessage to a friends and tap the iMessage App Store icon next to the compose field
